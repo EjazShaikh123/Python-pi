@@ -1,5 +1,3 @@
-#!/usr/bin/python
-	// Another comments.
-	// Print a comment...
-	// Made another comments...
+#!/usr/bin/python3
+
 print("Hello World")
